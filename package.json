@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@langchain/openai": "^0.0.11",
+    "cheerio": "^1.0.0-rc.12",
+    "langchain": "^0.1.2"
+  }
+}
